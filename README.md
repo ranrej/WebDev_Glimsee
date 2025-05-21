@@ -1,5 +1,7 @@
 # 🌟 Glimsee – Share Your Life Goals
 
+**Project for CSCI 3230U - Web Dev**
+
 **Glimsee** is a full-stack web application that allows users to share their short-term and long-term life goals. Users can interact with each other by posting goals, uploading pictures, liking/saving posts, commenting, and rating places they've visited. Think of it as a blend of Instagram and a personal goals journal.
 
 ---
